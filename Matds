@@ -142,7 +142,6 @@ Start.TextWrapped = true
 Start.MouseButton1Click:Connect(function()
     if Key.Text == "Matds114514" then
         ScreenGui:Destroy()
-        这里是你的脚本
     else
         game.Players.LocalPlayer:Kick("超你妈，滚出去")
     end
